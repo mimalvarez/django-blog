@@ -1,0 +1,4 @@
+export SECRET_KEY='aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.'
+export DJANGO_SETTINGS_MODULE='mysite.production'
+export DATABASE_URL='postgres://postgres:8dB8t!c7bFHFnThYw@postgresql99013.westus.cloudapp.azure.com:5432/djangoblog'
+ALLOWED_HOSTS='python230-ubuntu99002016.westus.cloudapp.azure.com' 
